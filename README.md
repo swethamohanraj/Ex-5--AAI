@@ -61,6 +61,7 @@ plt.show()
 ```
 
 <H3>Output:</H3>
+
 ![](./o1ex5.png)
 
 <H3>Results:</H3>
